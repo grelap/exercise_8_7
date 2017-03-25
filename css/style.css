@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box; }
+
+body {
+  font-family: 'Roboto Slab', serif;
+  margin: 0; 
+  background-color: #581845;
+  }
+
+h1 {
+   color: #FF5733;
+   font-size: 9vw;
+   padding: 5rem;
+   font-weight: 800;
+   margin:0;
+   background-color: black;
+   border-bottom:1px dashed  #581845;  
+}
+
+.container {
+   margin:0 auto;
+   height: 80vh;
+   text-align: center;
+
+}
+p {
+   margin:5vh;
+   color: #FF5733;
+   border-bottom: 1px dashed #FF5733;
+   padding-bottom:5vh;
+
+}
